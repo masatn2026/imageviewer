@@ -9,6 +9,7 @@ It is built with GTK4 and libadwaita and supports common image formats.
 
 ```
 sudo apt install flatpak flatpak-builder
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install -y org.gnome.Sdk//50
 flatpak install -y org.gnome.Platform//50
 ```
