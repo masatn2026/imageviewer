@@ -34,6 +34,6 @@ flatpak install -y --user io.github.masatn2026.ImageViewer.Locale
 ## Uninstall
 
 ```
-flatpak uninstall io.github.masatn2026.ImageViwer.Locale
-flatpak uninstall io.github.masatn2026.ImageViewer.flatpak
+flatpak uninstall io.github.masatn2026.ImageViewer.Locale
+flatpak uninstall io.github.masatn2026.ImageViewer
 ```
